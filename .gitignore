@@ -1,0 +1,12 @@
+# Go binary files
+*.exe
+*.out
+*.test
+
+# Dependency files
+vendor/
+go.sum
+
+# IDE settings
+.idea/
+.vscode/
