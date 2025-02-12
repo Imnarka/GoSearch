@@ -3,7 +3,7 @@
 ### Установка
 1. **Клоинурем репозиторий**
 ```shell
-git clone https://github.com/username/GoSearch.git
+git clone https://github.com/Imnarka/GoSearch
 ```
 2. **Ставим зависимости**
 ```shell
