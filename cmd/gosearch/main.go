@@ -1,11 +1,12 @@
 package main
 
 import (
-	"GoSearch/pkg/scraper"
 	"flag"
 	"fmt"
 	"log"
 	"strings"
+
+	"github.com/Imnarka/GoSearch/pkg/scraper"
 )
 
 func main() {

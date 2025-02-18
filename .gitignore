@@ -1,12 +1,15 @@
-# Go binary files
 *.exe
-*.out
+*.exe~
+*.dll
+*.so
+*.dylib
+
 *.test
 
-# Dependency files
-vendor/
-go.sum
+*.out
+# vendor/
 
-# IDE settings
+go.work
+go.work.sum
+.env
 .idea/
-.vscode/
